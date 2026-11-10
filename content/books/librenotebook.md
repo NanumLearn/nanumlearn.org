@@ -3,10 +3,9 @@ title = "LibreNotebook"
 author = "Enoch Yu"
 weight = 1
 status = "WIP"
-date = 2026-08-16
+today = true
 aliases = ["/books/26002/"]
 description = "A giant collection of personal notes for numerous topics including, but not limited to math olympiad, machine learning, introduction to higher level math, and competitive programming"
-link = "https://archive.enochyu.com/LibreNotebook.pdf"
 image = "/img/thumbnails/librenotebook.png"
 coverbg = "var(--text)"
 links = [
@@ -25,8 +24,8 @@ links = [
 ]
 +++
 
-LibreNotebook is Enoch Yu's giant and free personal notebook.
+LibreNotebook is Enoch Yu's giant and open source notebook.
 The purpose is to inspire and accelerate open education as a
-way of returning the blessings that I received from public
+way of returning the blessings that he received from public
 educational resources.
 
