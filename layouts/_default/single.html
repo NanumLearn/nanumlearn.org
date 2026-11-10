@@ -1,5 +1,5 @@
 {{ define "main" }}
-{{ $date := .Date.Format "January 2, 2006" }}
+{{ $date := (cond (.Params.today | default false) now .Date).Format "January 2, 2006" }}
 {{ $thumb := partial "thumb.html" . }}
 {{ $rows := 4 }}
 {{ with .Params.time }}{{ $rows = add $rows 1 }}{{ end }}

@@ -1,6 +1,6 @@
 +++
 title = "NL01CHEM01: Introduction to Chemistry for Middle School Students"
-author = "William Kang and Enoch Yu"
+author = "William Kang"
 status = "In progress"
 date = 2026-11-03
 time = "Tuesday 10 PM - 11 PM (GMT+9)"
@@ -47,15 +47,15 @@ chemistry. Sessions are held every Tuesday 10 PM - 11 PM (GMT+9) for
 four weeks, starting November 3rd.
 
 * Week 1:
-  * Classifying matter, physical and chemical changes, and density.
-  * Atomic structure, isotopes, and ions.
+  * Classifying matter, physical and chemical changes, and density
+  * Atomic structure, isotopes, and ions
 * Week 2:
-  * Periodic table patterns, valence electrons, and common ion charges.
-  * Ionic and covalent bonding, chemical formulas, and simple Lewis structures.
+  * Periodic table patterns, valence electrons, and common ion charges
+  * Ionic and covalent bonding, chemical formulas, and simple Lewis structures
 * Week 3:
-  * Chemical reactions, balancing equations, and conservation of mass.
-  * The mole, molar mass, and grams-to-moles conversions.
+  * Chemical reactions, balancing equations, and conservation of mass
+  * The mole, molar mass, and grams-to-moles conversions
 * Week 4:
-  * Solutions, concentration, and dilution.
-  * Review and application through an integrated chemistry problem.
+  * Solutions, concentration, and dilution
+  * Review and application through an integrated chemistry problem
 
