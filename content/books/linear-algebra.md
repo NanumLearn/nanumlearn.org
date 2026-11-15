@@ -6,7 +6,6 @@ status = "Completed"
 date = 2026-08-16
 aliases = ["/books/26001/"]
 description = "A free 173 pages beginner's guide to linear algebra that contains essential topics and practice problems"
-link = "https://cdn.enochyu.com/mathematics/pdf/26101.pdf"
 image = "/img/thumbnails/linear-algebra.png"
 links = [
   {

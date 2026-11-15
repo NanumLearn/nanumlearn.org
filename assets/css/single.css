@@ -162,20 +162,14 @@
   margin-top: 0;
 }
 
-.detail-head .thumb {
-  width: 100%;
-  aspect-ratio: 16 / 9;
-  object-fit: cover;
-  border: 1px solid var(--line);
-  border-radius: var(--radius);
-}
-
 .detail-head.wide .thumb {
   align-self: stretch;
   width: calc((var(--rows) * 1lh + (var(--rows) - 1) * 10px) * 16 / 9);
-  height: auto;
-  font-size: 15px;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border: 1px solid var(--line);
   border-radius: 10px;
+  font-size: 15px;
 }
 
 .detail-head.wide .thumb.cover {

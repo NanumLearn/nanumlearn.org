@@ -40,7 +40,6 @@ if (intro) {
   let last = 0;
   let lastAbs = 0;
   let until = 0;
-  let touchY = 0;
   let timer;
   let release;
 
@@ -98,16 +97,10 @@ if (intro) {
     hold(e, e.deltaY > 0);
   }, { passive: false });
 
-  addEventListener('touchstart', e => {
-    touchY = e.touches[0].clientY;
+  addEventListener('touchstart', () => {
     touching = true;
-    start();
-  });
-
-  addEventListener('touchmove', e => {
-    const dy = touchY - e.touches[0].clientY;
-    if (dy) hold(e, dy > 0);
-  }, { passive: false });
+    target = null;
+  }, { passive: true });
 
   addEventListener('touchend', () => {
     touching = false;

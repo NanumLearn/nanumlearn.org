@@ -14,7 +14,7 @@ links = [
     url = "https://youtube.com/playlist?list=PLOs3MhwbOdVyy102FYycVmbeHPPwO4Des"
   },
   {
-    name = "Day 94: 2012 KMO Problem 3",
+    name = "Day 95: Classic Pell's Equation",
     video = "https://youtu.be/miTvCkzetOc",
     pdf = "https://cdn.enochyu.com/c/pdf/C26129.pdf"
   },

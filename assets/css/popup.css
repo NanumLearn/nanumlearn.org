@@ -102,10 +102,6 @@ html:has(.popup[open]) {
   outline: none;
 }
 
-.popup-box[hidden] {
-  display: none;
-}
-
 @media (max-width: 849px) {
   .popup[open] {
     flex-direction: column;

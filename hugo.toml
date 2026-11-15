@@ -17,7 +17,6 @@ disableKinds = ["taxonomy"]
 
 [params]
 author = "Enoch Yu"
-favicon = "/img/favicon/favicon.ico"
   [params.social]
     youtube = "https://www.youtube.com/@NanumLearn"
     github = "https://github.com/NanumLearn"
