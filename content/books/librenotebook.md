@@ -15,11 +15,11 @@ links = [
   },
   {
     name = "Free PDF",
-    url = "https://archive.enochyu.com/LibreNotebook.pdf"
+    url = "https://cdn.enochyu.com/LibreNotebook.pdf"
   },
   {
     name = "Source (Git)",
-    url = "https://github.com/enochyu-official/LibreNotebook"
+    url = "https://github.com/enochness/LibreNotebook"
   }
 ]
 +++

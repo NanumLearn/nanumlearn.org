@@ -5,7 +5,7 @@ weight = 2
 status = "Completed"
 date = 2025-09-01
 classnum = 9
-description = "Four live classes for introducing competition style problems to elementary school students"
+description = "Eight live classes for introducing competition style problems to elementary school students"
 links = [
   {
     name = "Entire Playlist",
@@ -13,19 +13,19 @@ links = [
   },
   {
     name = "Handout 1",
-    url = "https://archive.enochyu.com/c/pdf/C25057.pdf"
+    url = "https://cdn.enochyu.com/c/pdf/C25057.pdf"
   },
   {
     name = "Handout 2",
-    url = "https://archive.enochyu.com/c/pdf/C25058.pdf"
+    url = "https://cdn.enochyu.com/c/pdf/C25058.pdf"
   },
   {
     name = "Handout 3",
-    url = "https://archive.enochyu.com/c/pdf/C25059.pdf"
+    url = "https://cdn.enochyu.com/c/pdf/C25059.pdf"
   },
   {
     name = "Handout 4",
-    url = "https://archive.enochyu.com/c/pdf/C25060.pdf"
+    url = "https://cdn.enochyu.com/c/pdf/C25060.pdf"
   },
   {
     name = "Recording for Orientation",
@@ -66,9 +66,9 @@ links = [
 ]
 +++
 
-The four live classes introduces competition style math to elementary
-students with problems and concepts from AMC 8. Handouts and
-recordings can be found below.
+The eight live classes introduces competition style math to
+elementary school students with problems and concepts from AMC 8.
+Handouts and recordings can be found below.
 
 
 

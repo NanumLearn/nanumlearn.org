@@ -1,11 +1,11 @@
 .DS_Store
 
 .hugo_build.lock
+public/
 
 .wrangler
 .dev.vars*
 *.pem
 node_modules/
 .misc
-
 

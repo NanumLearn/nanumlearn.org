@@ -66,7 +66,7 @@ a.card > * {
     text-decoration: none;
   }
 
-  a.card:hover > * {
+  a.card:hover > :not(.thumb) {
     transform: scale(1.05);
   }
 }
@@ -84,10 +84,4 @@ a.card > * {
   padding: 20px;
   object-fit: contain;
   background: var(--cover-bg, var(--bg-alt));
-}
-
-@media (hover: hover) {
-  a.card:hover > .thumb {
-    transform: none;
-  }
 }

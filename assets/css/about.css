@@ -15,6 +15,11 @@
   gap: 28px;
 }
 
+.leaders:not(:has([aria-expanded="true"])) {
+  max-width: calc(3 * 220px + 2 * 28px);
+  margin-inline: auto;
+}
+
 .leaders + .title {
   margin-top: 72px;
 }
