@@ -16,6 +16,29 @@ links = [
 ]
 sessions = [
   {
+    name = "Session 3",
+    links = [
+      {
+        name = "Recording",
+        video = "https://youtu.be/XkWCSk_sp7s"
+      },
+      {
+        name = "Slides",
+        pdf = "/pdf/nl01chem01/NL01CHEM01S3_slides.pdf"
+      },
+      {
+        name = "Problem Set 3",
+        pdf = "/pdf/nl01chem01/NL01CHEM01S3_problems.pdf",
+        source = "https://github.com/NanumLearn/Nanums/blob/main/NL01CHEM01/tex/NL01CHEM01S3_problems.tex"
+      },
+      {
+        name = "Solutions for Problem Set 3",
+        pdf = "/pdf/nl01chem01/NL01CHEM01S3_solutions.pdf",
+        source = "https://github.com/NanumLearn/Nanums/blob/main/NL01CHEM01/tex/NL01CHEM01S3_solutions.tex"
+      }
+    ]
+  },
+  {
     name = "Session 2",
     links = [
       {
@@ -27,12 +50,12 @@ sessions = [
         pdf = "/pdf/nl01chem01/NL01CHEM01S2_slides.pdf"
       },
       {
-        name = "Problem Set 1",
+        name = "Problem Set 2",
         pdf = "/pdf/nl01chem01/NL01CHEM01S2_problems.pdf",
         source = "https://github.com/NanumLearn/Nanums/blob/main/NL01CHEM01/tex/NL01CHEM01S2_problems.tex"
       },
       {
-        name = "Solutions for Problem Set 1",
+        name = "Solutions for Problem Set 2",
         pdf = "/pdf/nl01chem01/NL01CHEM01S2_solutions.pdf",
         source = "https://github.com/NanumLearn/Nanums/blob/main/NL01CHEM01/tex/NL01CHEM01S2_solutions.tex"
       }
