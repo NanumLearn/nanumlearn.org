@@ -12,7 +12,7 @@
     <div class="overview">
       {{ with $thumb }}<img src="{{ . }}" alt="{{ $.Title }}" class="thumb{{ if eq $.Section "books" }} cover{{ end }}" style="--rows: {{ $rows }}">{{ end }}
       <dl class="facts">
-        <dt>Author</dt>
+        <dt>Main Nanumer</dt>
         <dd>{{ .Params.author }}</dd>
         <dt>Status</dt>
         <dd>{{ replace .Params.status "WIP" "In progress" }}</dd>
@@ -23,7 +23,7 @@
         <dd>{{ . }}</dd>
         {{ end }}
         {{ with .Params.classnum }}
-        <dt>Classes</dt>
+        <dt>Nanums</dt>
         <dd>{{ . }}</dd>
         {{ end }}
         <dt>Total Views</dt>
