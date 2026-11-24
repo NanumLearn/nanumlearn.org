@@ -1,8 +1,8 @@
 +++
 title = "NL01CHEM01: Introduction to Chemistry for Middle School Students"
 author = "William Kang"
-status = "In progress"
-date = 2026-11-03
+status = "Completed"
+date = 2026-11-24
 time = "Tuesday 10 PM - 11 PM (GMT+9)"
 weight = 1
 classnum = 4
@@ -10,11 +10,34 @@ description = "An introduction to chemistry for curious middle school students"
 image = "/img/thumbnails/nl01chem01.png"
 links = [
   {
-    name = "Register",
+    name = "Register (Closed)",
     url = "https://forms.gle/wCS4RWX9rFAkTBMU7"
   }
 ]
 sessions = [
+  {
+    name = "Session 4",
+    links = [
+      {
+        name = "Recording",
+        video = "https://youtu.be/IILbWgjI8JM"
+      },
+      {
+        name = "Slides",
+        pdf = "/pdf/nl01chem01/NL01CHEM01S4_slides.pdf"
+      },
+      {
+        name = "Problem Set 4",
+        pdf = "/pdf/nl01chem01/NL01CHEM01S4_problems.pdf",
+        source = "https://github.com/NanumLearn/Nanums/blob/main/NL01CHEM01/tex/NL01CHEM01S4_problems.tex"
+      },
+      {
+        name = "Solutions for Problem Set 4",
+        pdf = "/pdf/nl01chem01/NL01CHEM01S4_solutions.pdf",
+        source = "https://github.com/NanumLearn/Nanums/blob/main/NL01CHEM01/tex/NL01CHEM01S4_solutions.tex"
+      }
+    ]
+  },
   {
     name = "Session 3",
     links = [
@@ -70,17 +93,17 @@ sessions = [
       },
       {
         name = "Slides",
-        pdf = "/pdf/nl01chem01/NL01CHEM01S2_slides.pdf"
+        pdf = "/pdf/nl01chem01/NL01CHEM01S1_slides.pdf"
       },
       {
         name = "Problem Set 1",
-        pdf = "/pdf/nl01chem01/NL01CHEM01S2_problems.pdf",
-        source = "https://github.com/NanumLearn/Nanums/blob/main/NL01CHEM01/tex/NL01CHEM01S2_problems.tex"
+        pdf = "/pdf/nl01chem01/NL01CHEM01S1_problems.pdf",
+        source = "https://github.com/NanumLearn/Nanums/blob/main/NL01CHEM01/tex/NL01CHEM01S1_problems.tex"
       },
       {
         name = "Solutions for Problem Set 1",
-        pdf = "/pdf/nl01chem01/NL01CHEM01S2_solutions.pdf",
-        source = "https://github.com/NanumLearn/Nanums/blob/main/NL01CHEM01/tex/NL01CHEM01S2_solutions.tex"
+        pdf = "/pdf/nl01chem01/NL01CHEM01S1_solutions.pdf",
+        source = "https://github.com/NanumLearn/Nanums/blob/main/NL01CHEM01/tex/NL01CHEM01S1_solutions.tex"
       }
     ]
   }
