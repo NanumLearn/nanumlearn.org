@@ -110,10 +110,10 @@ sessions = [
 ]
 +++
 
-NL01CHEM01 is our first Nanum session, led by our Vice President
+NL01CHEM01 was our first Nanum session, led by our Chemistry Director
 William Kang, for 6th to 9th grade students interested in exploring
-chemistry. Sessions are held every Tuesday 10 PM - 11 PM (GMT+9) for
-four weeks, starting November 3rd.
+chemistry. Sessions were held every Tuesday 10 PM - 11 PM (GMT+9) for
+four weeks, from November 3rd to November 24th.
 
 * Week 1:
   * Classifying matter, physical and chemical changes, and density
